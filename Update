@@ -1,5 +1,10 @@
-Summoner:
+Add No Clip to all classes
+Add Levitating function to all
+Fixed CFrame error on auto next scenes
 
+Summoner:
 Added target mob hp greater than 8000 checker
 increased summoned soldier vs mobs distance checker
 increased explosion chance where explod skill will used more
+
+
